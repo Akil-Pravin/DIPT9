@@ -1,5 +1,6 @@
 # Implementation of Erosion and Dilation Using OpenCV
-
+## Name : PRAVIN SM
+## Regno : 212224243004
 ## Aim
 
 To write a Python program using OpenCV to perform morphological operations such as Erosion and Dilation on an image.
