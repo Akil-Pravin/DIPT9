@@ -58,12 +58,6 @@ Compare the original, eroded, and dilated images.
 
 ## Program
 
-## Developed By
-
-**Name:** SABEESHWARAN. P
-
-**Register No:** 212225230234
-
 ## Output
 
 ### Original Image
